@@ -1,6 +1,6 @@
 # Potr pots landing page
 
-- [DEMO LINK](https://nasytheslayer.github.io/PotrPots_landing/)
+- [DEMO LINK](https://nasytheslayer.github.io/PotrPotsLanding/)
 
 - [Figma design](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760%3A281)
 
@@ -22,12 +22,12 @@ $ nvm use 14
 
 2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 ```
-$ git clone https://github.com/NasyTheSlayer/PotrPots_landing.git
+$ git clone https://github.com/NasyTheSlayer/PotrPotsLanding.git
 ```
 
 3. Open project in terminal (or GitBash for Windows users):
 ```
-$ code PotrPots_landing
+$ code PotrPotsLanding
 ```
 
 4. Set up project and install necessary packages in the code-editor you use:
